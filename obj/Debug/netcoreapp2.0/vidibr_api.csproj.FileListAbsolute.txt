@@ -1,0 +1,11 @@
+/home/vitormyra/www/dotnet/vidibr_api/bin/Debug/netcoreapp2.0/vidibr_api.deps.json
+/home/vitormyra/www/dotnet/vidibr_api/bin/Debug/netcoreapp2.0/vidibr_api.runtimeconfig.json
+/home/vitormyra/www/dotnet/vidibr_api/bin/Debug/netcoreapp2.0/vidibr_api.runtimeconfig.dev.json
+/home/vitormyra/www/dotnet/vidibr_api/bin/Debug/netcoreapp2.0/vidibr_api.dll
+/home/vitormyra/www/dotnet/vidibr_api/bin/Debug/netcoreapp2.0/vidibr_api.pdb
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.csproj.CoreCompileInputs.cache
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.AssemblyInfoInputs.cache
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.AssemblyInfo.cs
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.dll
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.pdb
+/home/vitormyra/www/dotnet/vidibr_api/obj/Debug/netcoreapp2.0/vidibr_api.csprojAssemblyReference.cache

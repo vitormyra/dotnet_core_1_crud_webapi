@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/vitormyra/www/dotnet/vidibr_api/vidibr_api.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}
